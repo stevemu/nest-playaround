@@ -23,7 +23,7 @@
     {
       "name": "nesttest",
       "script": "npm",
-      "args": "run start"
+      "args": "run start:prod"
     }
   ],
   "dependencies": {
